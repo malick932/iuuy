@@ -33,7 +33,7 @@ PROFILE = {
         "Bihance": "https://www.behance.net/umermalick",
         "Email": "malickumer1@gmail.com",
     },
-    "resume_pdf": "assets/resume.pdf",  # drop your PDF resume here
+    "resume_pdf": "resume.pdf",  # drop your PDF resume here
 }
 
 # --------------------------------------------------------------
