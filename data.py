@@ -20,7 +20,7 @@ PROFILE = {
     "tagline": "I build high-quality 2D & 3D games for Android • iOS • PC • WebGL",
     "level":100,  # purely cosmetic — bump it whenever you feel like it
     "location": "[Rawalpindi, Pakistan]",
-    "avatar": "assets/avatar.png",  # square image, drop your headshot/avatar here
+    "avatar": "avatar.png",  # square image, drop your headshot/avatar here
     "status": "Open to work",  # e.g. "Open to work" / "Currently at [Studio]" / "Freelance"
     "hero_stats": [
        {"label": "Years as Unity Developer","value": "3+"},
