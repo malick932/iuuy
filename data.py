@@ -15,23 +15,23 @@ need, or copy/paste one to add more (projects, jobs, certs, etc).
 # PLAYER PROFILE (top of sidebar + hero section)
 # --------------------------------------------------------------
 PROFILE = {
-    "name": "[Your Name]",
+    "name": "[Umer Malik]",
     "role": "Unity Game Developer",
-    "tagline": "I build worlds people don't want to leave.",
-    "level": 12,  # purely cosmetic — bump it whenever you feel like it
-    "location": "[City, Country]",
+    "tagline": "I build high-quality 2D & 3D games for Android • iOS • PC • WebGL",
+    "level": Senior,  # purely cosmetic — bump it whenever you feel like it
+    "location": "[Rawalpindi, Pakistan]",
     "avatar": "assets/avatar.png",  # square image, drop your headshot/avatar here
     "status": "Open to work",  # e.g. "Open to work" / "Currently at [Studio]" / "Freelance"
     "hero_stats": [
-        {"label": "Years Shipping Games", "value": "3+"},
-        {"label": "Shipped Titles", "value": "5"},
-        {"label": "Game Jams Won", "value": "2"},
+       {"label": "Years as Unity Developer","value": "3+"},
+        {"label": "Projects Completed","value": "20+"},
+        {"label": "Cross-Platform Games","value": "Android • iOS • PC • WebGL"},
+        {"label": "Clients Served","value": "10+"},
     ],
     "socials": {
-        "GitHub": "https://github.com/yourusername",
-        "LinkedIn": "https://linkedin.com/in/yourusername",
-        "itch.io": "https://yourusername.itch.io",
-        "Email": "mailto:you@example.com",
+        "LinkedIn": "http://www.linkedin.com/in/umer-malik-mu99",
+        "Bihance": "https://www.behance.net/umermalick",
+        "Email": "malickumer1@gmail.com",
     },
     "resume_pdf": "assets/resume.pdf",  # drop your PDF resume here
 }
