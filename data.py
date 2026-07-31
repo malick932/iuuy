@@ -18,7 +18,7 @@ PROFILE = {
     "name": "[Umer Malik]",
     "role": "Unity Game Developer",
     "tagline": "I build high-quality 2D & 3D games for Android • iOS • PC • WebGL",
-    "level": Senior,  # purely cosmetic — bump it whenever you feel like it
+    "level":100,  # purely cosmetic — bump it whenever you feel like it
     "location": "[Rawalpindi, Pakistan]",
     "avatar": "assets/avatar.png",  # square image, drop your headshot/avatar here
     "status": "Open to work",  # e.g. "Open to work" / "Currently at [Studio]" / "Freelance"
