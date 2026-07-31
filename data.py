@@ -15,7 +15,7 @@ need, or copy/paste one to add more (projects, jobs, certs, etc).
 # PLAYER PROFILE (top of sidebar + hero section)
 # --------------------------------------------------------------
 PROFILE = {
-    "name": "[Umer Malik]",
+    "name": "Umer Malik",
     "role": "Unity Game Developer",
     "tagline": "I build high-quality 2D & 3D games for Android • iOS • PC • WebGL",
     "level":100,  # purely cosmetic — bump it whenever you feel like it
