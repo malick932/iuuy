@@ -25,7 +25,7 @@ PROFILE = {
     "hero_stats": [
        {"label": "Years as Unity Developer","value": "3+"},
         {"label": "Projects Completed","value": "20+"},
-        {"label": "Cross-Platform Games","value": "And/iOS/PC"},
+        {"label": "Cross-Platform Games","value":"4+"},
         {"label": "Clients Served","value": "10+"},
     ],
     "socials": {
