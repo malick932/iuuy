@@ -20,7 +20,7 @@ PROFILE = {
     "tagline": "I build high-quality 2D & 3D games for Android • iOS • PC • WebGL",
     "level":100,  # purely cosmetic — bump it whenever you feel like it
     "location": "[Rawalpindi, Pakistan]",
-    "avatar": "avatar.png",  # square image, drop your headshot/avatar here
+    "avatar": "assets/avatar.png",  # square image, drop your headshot/avatar here
     "status": "Open to work",  # e.g. "Open to work" / "Currently at [Studio]" / "Freelance"
     "hero_stats": [
        {"label": "Years as Unity Developer","value": "3+"},
@@ -33,7 +33,7 @@ PROFILE = {
         "Bihance": "https://www.behance.net/umermalick",
         "Email": "malickumer1@gmail.com",
     },
-    "resume_pdf": "iuuy/resume.pdf",  # drop your PDF resume here
+ "resume_pdf": "assets/resume.pdf",  # drop your PDF resume here
 }
 
 # --------------------------------------------------------------
